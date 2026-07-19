@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.layer-particle-shatter",
+  "id": "com.hereliesaz.azphalt.particle-shatter",
   "name": "Particle Shatter",
   "version": "1.0.0",
   "kind": "asset",
