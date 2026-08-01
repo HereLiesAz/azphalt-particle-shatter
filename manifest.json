@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Holds the layer, then blows it apart at the end — the image blurs out as it disintegrates.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
